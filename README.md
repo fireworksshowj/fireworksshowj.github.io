@@ -1,7 +1,7 @@
 # 🎆 Fireworks Show
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://fireworksshow.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://fireworksshowj.github.io)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -9,7 +9,7 @@
 An interactive canvas-based fireworks simulation with stunning particle effects, multiple explosion patterns, and fully customizable settings. Click anywhere to launch beautiful fireworks into the night sky!
 
 <p align="center">
-  <a href="https://fireworksshow.github.io">
+  <a href="https://fireworksshowj.github.io">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-ff6b6b?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
@@ -91,18 +91,18 @@ An interactive canvas-based fireworks simulation with stunning particle effects,
 ## 🚀 Quick Start
 
 ### Option 1: Visit Live Demo
-Simply go to **[https://fireworksshow.github.io](https://fireworksshow.github.io)**
+Simply go to **[https://fireworksshowj.github.io](https://fireworksshowj.github.io)**
 
 ### Option 2: Run Locally
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/fireworksshow/fireworksshow.github.io.git
+   git clone https://github.com/fireworksshowj/fireworksshowj.github.io.git
    ```
 
 2. **Navigate to directory**
    ```bash
-   cd fireworksshow.github.io
+   cd fireworksshowj.github.io
    ```
 
 3. **Open in browser**
@@ -130,7 +130,7 @@ Simply go to **[https://fireworksshow.github.io](https://fireworksshow.github.io
 ## 📁 Project Structure
 
 ```
-fireworksshow.github.io/
+fireworksshowj.github.io/
 │
 ├── index.html          # Main application (all-in-one HTML/CSS/JS)
 ├── README.md           # Documentation
@@ -171,7 +171,7 @@ Contributions are welcome! Here's how you can help:
 
 1. **Fork the repository**
    ```bash
-   git fork https://github.com/fireworksshow/fireworksshow.github.io.git
+   git fork https://github.com/fireworksshowj/fireworksshowj.github.io.git
    ```
 
 2. **Create a feature branch**
@@ -257,16 +257,16 @@ SOFTWARE.
 
 ## 📧 Contact
 
-- **Repository**: [github.com/fireworksshow/fireworksshow.github.io](https://github.com/fireworksshow/fireworksshow.github.io)
-- **Live Demo**: [fireworksshow.github.io](https://fireworksshow.github.io)
-- **Issues**: [Report a bug](https://github.com/fireworksshow/fireworksshow.github.io/issues)
+- **Repository**: [github.com/fireworksshowj/fireworksshowj.github.io](https://github.com/fireworksshowj/fireworksshow.github.io)
+- **Live Demo**: [fireworksshowj.github.io](https://fireworksshowj.github.io)
+- **Issues**: [Report a bug](https://github.com/fireworksshowj/fireworksshowj.github.io/issues)
 
 ---
 
 <p align="center">
   Made with ❤️ and ✨
   <br><br>
-  <a href="https://fireworksshow.github.io">
+  <a href="https://fireworksshowj.github.io">
     <img src="https://img.shields.io/badge/🎆%20Launch%20Fireworks-NOW-ff6b6b?style=for-the-badge" alt="Launch">
   </a>
 </p>
