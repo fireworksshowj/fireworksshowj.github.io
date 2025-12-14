@@ -205,7 +205,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 Changelog
 
-### v1.0.0 (2024)
+### v1.0.0 (2025)
 - ✨ Initial release
 - 🎆 6 explosion patterns
 - 🎨 7 color schemes
@@ -224,7 +224,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Fireworks Show
+Copyright (c) 2025 Yuliya Kolesnikova <0009-0000-6151-7415@orcid.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
